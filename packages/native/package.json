@@ -14,7 +14,7 @@
 	"dependencies": {
 		"@react-native-community/geolocation": "2.0.2",
 		"@reduxjs/toolkit": "1.5.0",
-		"react": "16.13.1",
+		"react": "17.0.1",
 		"react-native": "0.63.2",
 		"react-native-navigation-bar-color": "2.0.1",
 		"react-native-webview": "11.2.3",
@@ -24,14 +24,14 @@
 	"devDependencies": {
 		"@babel/core": "7.13.8",
 		"@babel/runtime": "7.13.9",
-		"@react-native-community/eslint-config": "1.1.0",
+		"@react-native-community/eslint-config": "2.0.0",
 		"babel-jest": "25.5.1",
 		"eslint": "6.8.0",
 		"eslint-config-prettier": "8.1.0",
 		"jest": "25.5.4",
 		"metro-react-native-babel-preset": "0.59.0",
 		"prettier": "2.2.1",
-		"react-test-renderer": "16.13.1"
+		"react-test-renderer": "17.0.1"
 	},
 	"jest": {
 		"preset": "react-native"
